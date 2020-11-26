@@ -60,6 +60,8 @@ My gratitude to these contributors for localizing Flexbox Froggy. This is what o
 
 Don't see your language on the list? Contribute a translation! Fork the [repo](https://github.com/thomaspark/flexboxfroggy/), add your translations, and submit a pull request.
 
+## This repo is my interesting PR
+My task of my course is choose my interesting PR. I really like game for helping of learning. I would like to translate in Thai, too.
 ## Copyright and License
 
 Copyright 2015-2017 Thomas Park. Code released under [the MIT License](https://github.com/thomaspark/flexboxfroggy/blob/gh-pages/LICENSE). Images released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/legalcode.txt).
